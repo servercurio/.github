@@ -1,0 +1,11 @@
+# macOS Finder metadata
+.DS_Store
+._*
+
+# Windows Explorer metadata
+Thumbs.db
+Desktop.ini
+
+# Editor scratch files
+*.swp
+*~
